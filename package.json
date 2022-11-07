@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/brandonfelty/bar_chart/issues"
   },
-  "homepage": "https://github.com/brandonfelty/bar_chart#readme"
+  "homepage": "https://github.com/brandonfelty/bar_chart#readme",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
 }
